@@ -16,4 +16,4 @@ This is a simple Python program that allows users to perform basic mathematical 
 3. Run the Python program in your terminal or IDE.
 
 ```bash
-python calculator.py
+python index.py
